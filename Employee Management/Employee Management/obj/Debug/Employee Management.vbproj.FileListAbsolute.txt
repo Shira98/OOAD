@@ -1,0 +1,18 @@
+C:\Users\Anmol\source\repos\Employee Management\Employee Management\bin\Debug\Employee Management.exe.config
+C:\Users\Anmol\source\repos\Employee Management\Employee Management\bin\Debug\Employee Management.exe
+C:\Users\Anmol\source\repos\Employee Management\Employee Management\bin\Debug\Employee Management.pdb
+C:\Users\Anmol\source\repos\Employee Management\Employee Management\bin\Debug\Employee Management.xml
+C:\Users\Anmol\source\repos\Employee Management\Employee Management\obj\Debug\Employee Management.vbprojResolveAssemblyReference.cache
+C:\Users\Anmol\source\repos\Employee Management\Employee Management\obj\Debug\WindowsApp1.Form2.resources
+C:\Users\Anmol\source\repos\Employee Management\Employee Management\obj\Debug\WindowsApp1.Manager.resources
+C:\Users\Anmol\source\repos\Employee Management\Employee Management\obj\Debug\WindowsApp1.Form1.resources
+C:\Users\Anmol\source\repos\Employee Management\Employee Management\obj\Debug\WindowsApp1.Resources.resources
+C:\Users\Anmol\source\repos\Employee Management\Employee Management\obj\Debug\WindowsApp1.Regualr_Employee.resources
+C:\Users\Anmol\source\repos\Employee Management\Employee Management\obj\Debug\Employee Management.vbproj.GenerateResource.cache
+C:\Users\Anmol\source\repos\Employee Management\Employee Management\obj\Debug\Employee Management.vbproj.CoreCompileInputs.cache
+C:\Users\Anmol\source\repos\Employee Management\Employee Management\obj\Debug\Employee Management.exe
+C:\Users\Anmol\source\repos\Employee Management\Employee Management\obj\Debug\Employee Management.xml
+C:\Users\Anmol\source\repos\Employee Management\Employee Management\obj\Debug\Employee Management.pdb
+C:\Users\Anmol\source\repos\Employee Management\Employee Management\obj\Debug\WindowsApp1.Main.resources
+C:\Users\Anmol\source\repos\Employee Management\Employee Management\obj\Debug\WindowsApp1.Emp_Det.resources
+C:\Users\Anmol\source\repos\Employee Management\Employee Management\obj\Debug\WindowsApp1.Emp_Under_Each_Branch.resources
