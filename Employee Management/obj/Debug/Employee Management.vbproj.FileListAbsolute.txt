@@ -1,0 +1,45 @@
+C:\Users\Anmol\source\repos\Employee Management\Employee Management\bin\Debug\Employee Management.exe.config
+C:\Users\Anmol\source\repos\Employee Management\Employee Management\bin\Debug\Employee Management.exe
+C:\Users\Anmol\source\repos\Employee Management\Employee Management\bin\Debug\Employee Management.pdb
+C:\Users\Anmol\source\repos\Employee Management\Employee Management\bin\Debug\Employee Management.xml
+C:\Users\Anmol\source\repos\Employee Management\Employee Management\obj\Debug\Employee Management.vbprojResolveAssemblyReference.cache
+C:\Users\Anmol\source\repos\Employee Management\Employee Management\obj\Debug\WindowsApp1.Form2.resources
+C:\Users\Anmol\source\repos\Employee Management\Employee Management\obj\Debug\WindowsApp1.Manager.resources
+C:\Users\Anmol\source\repos\Employee Management\Employee Management\obj\Debug\WindowsApp1.Form1.resources
+C:\Users\Anmol\source\repos\Employee Management\Employee Management\obj\Debug\WindowsApp1.Resources.resources
+C:\Users\Anmol\source\repos\Employee Management\Employee Management\obj\Debug\WindowsApp1.Regualr_Employee.resources
+C:\Users\Anmol\source\repos\Employee Management\Employee Management\obj\Debug\Employee Management.vbproj.GenerateResource.cache
+C:\Users\Anmol\source\repos\Employee Management\Employee Management\obj\Debug\Employee Management.vbproj.CoreCompileInputs.cache
+C:\Users\Anmol\source\repos\Employee Management\Employee Management\obj\Debug\Employee Management.exe
+C:\Users\Anmol\source\repos\Employee Management\Employee Management\obj\Debug\Employee Management.xml
+C:\Users\Anmol\source\repos\Employee Management\Employee Management\obj\Debug\Employee Management.pdb
+C:\Users\Anmol\source\repos\Employee Management\Employee Management\obj\Debug\WindowsApp1.Main.resources
+C:\Users\Anmol\source\repos\Employee Management\Employee Management\obj\Debug\WindowsApp1.Emp_Det.resources
+C:\Users\Anmol\source\repos\Employee Management\Employee Management\obj\Debug\WindowsApp1.Emp_Under_Each_Branch.resources
+C:\Users\gulpr\Desktop\OOAD PROJECT\OOAD-master\OOAD-master\Employee Management\Employee Management\obj\Debug\Employee Management.vbprojResolveAssemblyReference.cache
+C:\Users\gulpr\Desktop\OOAD PROJECT\OOAD-master\OOAD-master\Employee Management\Employee Management\obj\Debug\WindowsApp1.Add_Intern.resources
+C:\Users\gulpr\Desktop\OOAD PROJECT\OOAD-master\OOAD-master\Employee Management\Employee Management\obj\Debug\WindowsApp1.Form2.resources
+C:\Users\gulpr\Desktop\OOAD PROJECT\OOAD-master\OOAD-master\Employee Management\Employee Management\obj\Debug\WindowsApp1.Emp_Under_Each_Branch.resources
+C:\Users\gulpr\Desktop\OOAD PROJECT\OOAD-master\OOAD-master\Employee Management\Employee Management\obj\Debug\WindowsApp1.Feedbackk.resources
+C:\Users\gulpr\Desktop\OOAD PROJECT\OOAD-master\OOAD-master\Employee Management\Employee Management\obj\Debug\WindowsApp1.Intra_Transfer.resources
+C:\Users\gulpr\Desktop\OOAD PROJECT\OOAD-master\OOAD-master\Employee Management\Employee Management\obj\Debug\WindowsApp1.Main.resources
+C:\Users\gulpr\Desktop\OOAD PROJECT\OOAD-master\OOAD-master\Employee Management\Employee Management\obj\Debug\WindowsApp1.Emp_Det.resources
+C:\Users\gulpr\Desktop\OOAD PROJECT\OOAD-master\OOAD-master\Employee Management\Employee Management\obj\Debug\WindowsApp1.Manager.resources
+C:\Users\gulpr\Desktop\OOAD PROJECT\OOAD-master\OOAD-master\Employee Management\Employee Management\obj\Debug\WindowsApp1.Form1.resources
+C:\Users\gulpr\Desktop\OOAD PROJECT\OOAD-master\OOAD-master\Employee Management\Employee Management\obj\Debug\WindowsApp1.manage_all_employees.resources
+C:\Users\gulpr\Desktop\OOAD PROJECT\OOAD-master\OOAD-master\Employee Management\Employee Management\obj\Debug\WindowsApp1.Manage_Salaries.resources
+C:\Users\gulpr\Desktop\OOAD PROJECT\OOAD-master\OOAD-master\Employee Management\Employee Management\obj\Debug\WindowsApp1.Resources.resources
+C:\Users\gulpr\Desktop\OOAD PROJECT\OOAD-master\OOAD-master\Employee Management\Employee Management\obj\Debug\Employee Management.vbproj.GenerateResource.cache
+C:\Users\gulpr\Desktop\OOAD PROJECT\OOAD-master\OOAD-master\Employee Management\Employee Management\obj\Debug\Employee Management.vbproj.CoreCompileInputs.cache
+C:\Users\gulpr\Desktop\OOAD PROJECT\OOAD-master\OOAD-master\Employee Management\Employee Management\obj\Debug\Employee Management.exe
+C:\Users\gulpr\Desktop\OOAD PROJECT\OOAD-master\OOAD-master\Employee Management\Employee Management\obj\Debug\Employee Management.xml
+C:\Users\gulpr\Desktop\OOAD PROJECT\OOAD-master\OOAD-master\Employee Management\Employee Management\obj\Debug\Employee Management.pdb
+C:\Users\gulpr\Desktop\OOAD PROJECT\OOAD-master\OOAD-master\Employee Management\Employee Management\bin\Debug\Employee Management.exe.config
+C:\Users\gulpr\Desktop\OOAD PROJECT\OOAD-master\OOAD-master\Employee Management\Employee Management\bin\Debug\Employee Management.exe
+C:\Users\gulpr\Desktop\OOAD PROJECT\OOAD-master\OOAD-master\Employee Management\Employee Management\bin\Debug\Employee Management.pdb
+C:\Users\gulpr\Desktop\OOAD PROJECT\OOAD-master\OOAD-master\Employee Management\Employee Management\bin\Debug\Employee Management.xml
+C:\Users\gulpr\Desktop\OOAD PROJECT\OOAD-master\OOAD-master\Employee Management\Employee Management\bin\Debug\MySql.Data.dll
+C:\Users\gulpr\Desktop\OOAD PROJECT\OOAD-master\OOAD-master\Employee Management\Employee Management\bin\Debug\MySql.Data.xml
+C:\Users\gulpr\Desktop\OOAD PROJECT\OOAD-master\OOAD-master\Employee Management\Employee Management\obj\Debug\Employee Management.vbproj.CopyComplete
+C:\Users\gulpr\Desktop\OOAD PROJECT\OOAD-master\OOAD-master\Employee Management\Employee Management\obj\Debug\WindowsApp1.Regular_Employee.resources
+C:\Users\gulpr\Desktop\OOAD PROJECT\OOAD-master\OOAD-master\Employee Management\Employee Management\obj\Debug\WindowsApp1.Display_Deets.resources

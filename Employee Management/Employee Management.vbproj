@@ -1,0 +1,238 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{B11B00B4-D33B-4580-8B56-A32C713340DA}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>WindowsApp1.My.MyApplication</StartupObject>
+    <RootNamespace>WindowsApp1</RootNamespace>
+    <AssemblyName>Employee Management</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>Employee Management.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>Employee Management.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="MySql.Data, Version=6.10.6.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Net.Http" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+    <Import Include="System.Threading.Tasks" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Add_Intern.Designer.vb">
+      <DependentUpon>Add_Intern.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Add_Intern.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admin.Designer.vb">
+      <DependentUpon>Admin.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Admin.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Emp_Under_Each_Branch.Designer.vb">
+      <DependentUpon>Emp_Under_Each_Branch.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Emp_Under_Each_Branch.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Feedbackk.Designer.vb">
+      <DependentUpon>Feedbackk.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Feedbackk.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Display_Deets.Designer.vb">
+      <DependentUpon>Display_Deets.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Display_Deets.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Intra_Transfer.Designer.vb">
+      <DependentUpon>Intra_Transfer.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Intra_Transfer.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Main.Designer.vb">
+      <DependentUpon>Main.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Main.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Emp_Det.Designer.vb">
+      <DependentUpon>Emp_Det.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Emp_Det.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Manager.Designer.vb">
+      <DependentUpon>Manager.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Manager.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Manager_Employee_Details.Designer.vb">
+      <DependentUpon>Manager_Employee_Details.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Manager_Employee_Details.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="manage_all_employees.Designer.vb">
+      <DependentUpon>manage_all_employees.vb</DependentUpon>
+    </Compile>
+    <Compile Include="manage_all_employees.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Manage_Salaries.Designer.vb">
+      <DependentUpon>Manage_Salaries.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Manage_Salaries.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Regular_Employee.Designer.vb">
+      <DependentUpon>Regular_Employee.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Regular_Employee.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Login Portal.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Login Portal.Designer.vb">
+      <DependentUpon>Login Portal.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="SqlConnect.vb" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Add_Intern.resx">
+      <DependentUpon>Add_Intern.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Admin.resx">
+      <DependentUpon>Admin.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Emp_Under_Each_Branch.resx">
+      <DependentUpon>Emp_Under_Each_Branch.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Feedbackk.resx">
+      <DependentUpon>Feedbackk.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Display_Deets.resx">
+      <DependentUpon>Display_Deets.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Intra_Transfer.resx">
+      <DependentUpon>Intra_Transfer.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Main.resx">
+      <DependentUpon>Main.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Emp_Det.resx">
+      <DependentUpon>Emp_Det.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Manager.resx">
+      <DependentUpon>Manager.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Login Portal.resx">
+      <DependentUpon>Login Portal.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="manage_all_employees.resx">
+      <DependentUpon>manage_all_employees.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Manage_Salaries.resx">
+      <DependentUpon>Manage_Salaries.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Regular_Employee.resx">
+      <DependentUpon>Regular_Employee.vb</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="App.config" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+</Project>
